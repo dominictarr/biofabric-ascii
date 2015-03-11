@@ -12,6 +12,8 @@ is a method of laying out a graph as with nodes as lines
 instead of points. This means you can layout a graph on a simple
 grid, nodes become horizontal lines, and edges become vertical lines.
 
+see also [maxodgen/biofabric](https://github.com/maxogden/biofabric)
+
 Here is a random graph with 40 nodes and 60 random edges.
 
 ```
@@ -72,8 +74,6 @@ you could try taking the node with the highest degree
 (this is what biofabric recommends)
 
 Support for undirected graphs is not implemented yet.
-
-
 
 ## License
 

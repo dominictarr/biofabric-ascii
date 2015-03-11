@@ -1,7 +1,7 @@
 {
   "name": "biofabric-ascii",
   "description": "layout graphs biofabric style, in ascii",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/dominictarr/biofabric-ascii",
   "repository": {
     "type": "git",
@@ -11,5 +11,5 @@
     "test": "set -e; for t in test/*.js; do node $t; done"
   },
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"  
+  "license": "MIT"
 }
